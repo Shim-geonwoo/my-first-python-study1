@@ -10,3 +10,14 @@
 
 
 
+# from random import *
+
+# worker = ["윤서영", "임소리", "심건우"]
+    
+# for i in worker:
+#     yageun = randint(1,2)
+#     if yageun == 1:
+#         print(f"{i}씨는 야근이 확정되었습니다.")
+#     elif yageun == 2:
+#         print(f"{i}씨는 정시퇴근입니다.")
+
